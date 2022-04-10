@@ -1,7 +1,7 @@
 var quotes = [
-    '1',
-    '2',
-    '3'
+    'Wir können programmieren!',
+    'Wir sind schlecht in Minecraft.',
+    'Das G in DasShept steht für gut!'
 ]
 
 function newQuote() {
